@@ -9,8 +9,8 @@ plugins:
 remote_theme: CloudCannon/edition-jekyll-template@main
 
 collections:
-  docs:
-    title: Documentation
+  videos:
+    title: Videos
     permalink: /:path/
     output: true
 
@@ -23,7 +23,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "docs"
+      type: "videos"
     values:
       seo:
         type: Article
