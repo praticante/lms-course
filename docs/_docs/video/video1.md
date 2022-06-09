@@ -1,5 +1,6 @@
 ---
 title: Java
+comments: true
 ---
 
 # Video 1
