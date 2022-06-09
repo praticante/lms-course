@@ -1,9 +1,9 @@
 ---
-category: JavaScript
-type: minor
+title: Francesco Bianco
+category: Autori
 ---
 
-# Video 1
+# Francesco Binaco
 
 Testo sopra
 
