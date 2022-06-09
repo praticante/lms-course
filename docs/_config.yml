@@ -8,6 +8,8 @@ plugins:
 
 remote_theme: CloudCannon/edition-jekyll-template@main
 
+show_full_navigation: true
+
 collections:
   docs:
     title: Videos
