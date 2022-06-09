@@ -1,1 +1,5 @@
+
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: CloudCannon/edition-jekyll-template@main
