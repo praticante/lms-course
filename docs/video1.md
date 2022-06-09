@@ -1,5 +1,6 @@
 ---
 category: PHP
+type: minor
 ---
 
 # Video 1
