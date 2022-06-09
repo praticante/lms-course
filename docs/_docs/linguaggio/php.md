@@ -1,6 +1,6 @@
 ---
 title: PHP
-category: Linguaggi
+category: Linguaggio
 ---
 
 # PHP

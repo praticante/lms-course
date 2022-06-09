@@ -1,6 +1,6 @@
 ---
 title: CI/CD
-category: Argomenti
+category: Argomento
 ---
 
 # Topic

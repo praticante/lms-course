@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-category: Linguaggi
+category: Linguaggio
 ---
 
 # Topic

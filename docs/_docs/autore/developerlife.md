@@ -1,6 +1,6 @@
 ---
 title: DeveloperLife
-category: Autori
+category: Autore
 ---
 
 # PHP

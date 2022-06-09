@@ -1,6 +1,6 @@
 ---
 title: Francesco Bianco
-category: Autori
+category: Autore
 ---
 
 # Francesco Binaco

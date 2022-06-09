@@ -1,6 +1,6 @@
 ---
 title: Java
-category: Linguaggi
+category: Linguaggio
 ---
 
 # Video 1

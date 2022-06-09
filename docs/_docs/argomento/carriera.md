@@ -1,6 +1,6 @@
 ---
 title: Carriera
-category: Argomenti
+category: Argomento
 ---
 
 # PHP
