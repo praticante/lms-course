@@ -1,5 +1,5 @@
 ---
-category: PHP
+category: JavaScript
 type: minor
 ---
 
