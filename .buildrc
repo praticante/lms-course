@@ -1,0 +1,16 @@
+#!/usr/bin/env php
+<?php
+
+$siteStructure = [];
+
+foreach (scandir('videos') as $videos) {
+    if (pathinfo($videos, PATHINFO_EXTENSION) != 'json') {
+        continue;
+    }
+
+    $data = json_decode(file_get_contents('videos/'.$videos), true);
+
+    foreach ($data['videos'] as $video) {
+
+    }
+}
