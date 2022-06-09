@@ -9,7 +9,7 @@ plugins:
 remote_theme: CloudCannon/edition-jekyll-template@main
 
 collections:
-  videos:
+  docs:
     title: Videos
     permalink: /:path/
     output: true
@@ -23,7 +23,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "videos"
+      type: "docs"
     values:
       seo:
         type: Article
