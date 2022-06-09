@@ -1,6 +1,6 @@
 ---
 title: TomorrowDevs
-category: autori
+category: Autori
 ---
 
 # TomorrowDevs
