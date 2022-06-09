@@ -1,12 +1,12 @@
 {
-  "version": "1.0"
+  "version": "1.0",
   "videos": [
     {
-      "collection": ""
+      "collection": "",
       "title": "",
       "url": "",
-      "author": ""
-      "tags": ["php"],      
+      "author": "",
+      "tags": ["php"]
     }
   ]
 }
