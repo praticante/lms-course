@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 
-remote_theme: miocugino/theme@main
+remote_theme: praticante/lms-theme@main
 
 show_full_navigation: true
 
